@@ -1,3 +1,8 @@
+## SHORT BIOGRAPHY
+Yuzhi Guo is a PhD student in the SMILE lab in the University of Texas at Arlington. He graduated from the Stevens Institute of Technology in 2018 with a Master's Degree in Computer Science. He is passionate at applying and designing machine learning, computer vision, and deep learning techniques to solve practical problems. Besides, he likes reading, cooking, and playing basketball.
+
+**Research Interests**: Deep Learning, Machine Learning, Bioinformatics, Medical Image Processing
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yuzhiguo07/yuzhiguo07.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
