@@ -322,9 +322,9 @@ h3 {
 } */
 
 #intro.section {
-  /* background: #a7ffeb repeat; */
+  background: #a7ffeb repeat;
   /* background: #4fa4ff repeat; */
-  background: #a7caff repeat;
+  /* background: #a7caff repeat; */
   position: relative;
 }
 
@@ -563,8 +563,8 @@ small {
 /* .teal */
 
 .teal {
-  /* background-color: #008073 !important; */
-  background-color: #4b91fa !important;
+  background-color: #008073 !important;
+  /* background-color: #4b91fa !important; */
 
 }
 
