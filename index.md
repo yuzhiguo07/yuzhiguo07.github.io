@@ -6,19 +6,21 @@ Yuzhi Guo is a PhD student in the SMILE lab in the University of Texas at Arling
 **Research Interests**: Deep Learning, Machine Learning, Bioinformatics, Medical Image Processing
 
 ## PUBLICATIONS
-Guo, Yuzhi, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "Comprehensive Study on Enhancing Low-Quality Position-Specific Scoring Matrix with Deep Learning for Accurate Protein Structure Property Prediction: Using Bagging Multiple Sequence Alignment Learning." Journal of Computational Biology 28, no. 4 (2021): 346-361.
+**Yuzhi Guo**, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "Comprehensive Study on Enhancing Low-Quality Position-Specific Scoring Matrix with Deep Learning for Accurate Protein Structure Property Prediction: Using Bagging Multiple Sequence Alignment Learning." Journal of Computational Biology 28, no. 4 (2021): 346-361.
 
-Guo, Yuzhi, Jiaxiang Wu, Hehuan Ma, Jinyu Yang, Xinliang Zhu, and Junzhou Huang. "WeightAln: Weighted Homologous Alignment for Protein Structure Property Prediction." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 72-75. IEEE, 2020.
+**Yuzhi Guo**, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "EPTool: A New Enhancing PSSM Tool for Protein Secondary Structure Prediction." Journal of Computational Biology 28, no. 4 (2021): 362-364.
 
-Guo, Yuzhi, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "Protein Ensemble Learning with Atrous Spatial Pyramid Networks for Secondary Structure Prediction." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 17-22. IEEE, 2020.
+**Yuzhi Guo**, Jiaxiang Wu, Hehuan Ma, Jinyu Yang, Xinliang Zhu, and Junzhou Huang. "WeightAln: Weighted Homologous Alignment for Protein Structure Property Prediction." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 72-75. IEEE, 2020.
 
-Guo, Yuzhi, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "Bagging msa learning: Enhancing low-quality pssm with deep learning for accurate protein structure property prediction." In International Conference on Research in Computational Molecular Biology, pp. 88-103. Springer, Cham, 2020.
+**Yuzhi Guo**, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "Protein Ensemble Learning with Atrous Spatial Pyramid Networks for Secondary Structure Prediction." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 17-22. IEEE, 2020.
 
-Ma, Hehuan, Chaochao Yan, Yuzhi Guo, Sheng Wang, Yuhong Wang, Hongmao Sun, and Junzhou Huang. "Improving Molecular Property Prediction on Limited Data with Deep Multi-Label Learning." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 2779-2784. IEEE, 2020.
+**Yuzhi Guo**, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "Bagging msa learning: Enhancing low-quality pssm with deep learning for accurate protein structure property prediction." In International Conference on Research in Computational Molecular Biology, pp. 88-103. Springer, Cham, 2020.
 
-Wang, Sheng, Yuzhi Guo, Yuhong Wang, Hongmao Sun, and Junzhou Huang. "SMILES-BERT: large scale unsupervised pre-training for molecular property prediction." In Proceedings of the 10th ACM international conference on bioinformatics, computational biology and health informatics, pp. 429-436. 2019.
+Ma, Hehuan, Chaochao Yan, **Yuzhi Guo**, Sheng Wang, Yuhong Wang, Hongmao Sun, and Junzhou Huang. "Improving Molecular Property Prediction on Limited Data with Deep Multi-Label Learning." In 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 2779-2784. IEEE, 2020.
 
-Guo, Yuzhi, Jiaxiang Wu, Hehuan Ma, Sheng Wang, and Junzhou Huang. "EPTool: A New Enhancing PSSM Tool for Protein Secondary Structure Prediction." Journal of Computational Biology 28, no. 4 (2021): 362-364.
+Wang, Sheng, **Yuzhi Guo**, Yuhong Wang, Hongmao Sun, and Junzhou Huang. "SMILES-BERT: large scale unsupervised pre-training for molecular property prediction." In Proceedings of the 10th ACM international conference on bioinformatics, computational biology and health informatics, pp. 429-436. 2019.
+
+
 
 
 
