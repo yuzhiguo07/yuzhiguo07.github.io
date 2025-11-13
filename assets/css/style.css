@@ -753,3 +753,13 @@ a:hover {
 #intro.section .container *:not(span) {
   text-shadow: none !important;
 }
+
+/* 去除 intro 区域所有文字阴影与暗层效果 */
+#intro.section .container * {
+  text-shadow: none !important;
+}
+
+#intro .overlay {
+  background: none !important;
+}
+
