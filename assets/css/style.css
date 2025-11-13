@@ -698,3 +698,53 @@ small {
     background-position-x: 30%;
   }
 }
+
+/* ===== 全站字体改为黑色 ===== */
+html, body {
+  color: #111 !important;
+}
+h1, h2, h3, h4, h5, h6, p, li, a, span {
+  color: #111 !important;
+}
+
+/* ===== 右侧内容背景改为白色 ===== */
+main, section, #intro {
+  background: #fff !important;
+}
+#intro.section {
+  background: #fff !important;
+}
+#intro .overlay {
+  background: transparent !important;
+}
+
+/* ===== 左侧目录栏背景改为浅灰色 ===== */
+ul.side-nav.fixed.section.table-of-contents {
+  background: #f5f5f5 !important;
+  border-right: 1px solid #ddd;
+}
+
+/* 左侧目录文字改黑 */
+ul.side-nav.fixed.section.table-of-contents a,
+ul.side-nav.fixed.section.table-of-contents i {
+  color: #111 !important;
+}
+
+/* “Hi, I'm Yuzhi Guo.” 中的绿色块去掉并改成黑字 */
+#intro .caption h2 span.teal {
+  background: transparent !important;
+  color: #111 !important;
+}
+
+/* ===== 链接悬停时略变深 ===== */
+a:hover {
+  color: #000 !important;
+}
+
+/* ===== 页眉标题条去掉绿色背景 ===== */
+.page-title.teal {
+  background-color: #fff !important;
+}
+.page-title.white-text {
+  color: #111 !important;
+}
