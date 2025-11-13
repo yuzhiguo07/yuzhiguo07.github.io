@@ -748,3 +748,8 @@ a:hover {
 .page-title.white-text {
   color: #111 !important;
 }
+
+/* 去掉文字阴影 */
+#intro.section .container *:not(span) {
+  text-shadow: none !important;
+}
