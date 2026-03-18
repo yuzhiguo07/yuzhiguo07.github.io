@@ -311,7 +311,8 @@ h3 {
 }
 
 .full-height {
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
 }
 
 /* Original */
@@ -332,7 +333,7 @@ h3 {
   color: white;
   font-weight: 200;
   left: 0;
-  position: absolute;
+  position: relative;
   top: 0;
 }
 
